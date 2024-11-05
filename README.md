@@ -11,3 +11,7 @@ We gathered Cropping pictures of the players to train our clustering model
 
 Now the model can separate the players into two teams and the goalkeepers will be assigned to the closer players.
 ![fcb_vs_mad_3](https://github.com/user-attachments/assets/b2a6fba0-ba7b-46fb-91a3-3ac43d61377d)
+
+
+To try the model Check this out:
+https://app.roboflow.com/omar-rwnna/football-tracking-model/1
